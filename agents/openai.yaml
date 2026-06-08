@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reading List Research"
+  short_description: "用课程书单判断专业与学校适配度"
+  default_prompt: "Use $reading-list-research to compare target programs through their official course reading lists."
